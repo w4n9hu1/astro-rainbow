@@ -1,5 +1,7 @@
 # AstroRainbow 🌈
 
+![cover0](https://github.com/user-attachments/assets/c1f0d338-1fa5-4fd9-b1e4-8c71193df6d8)
+
 AstroRainbow is a clean and simple Astro theme designed for blogs.
 
 ## ✨ Features
