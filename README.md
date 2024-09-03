@@ -1,4 +1,4 @@
-# AstroRainbow 🌈
+# 🌈 AstroRainbow
 
 ![cover0](https://github.com/user-attachments/assets/c1f0d338-1fa5-4fd9-b1e4-8c71193df6d8)
 
@@ -17,7 +17,7 @@ AstroRainbow is a clean and simple Astro theme designed for blogs.
 
 ```bash
 # clone the repo
-npm create astro@latest --template w4n9hu1/astro-rainbow
+npm create astro@latest -- --template w4n9hu1/astro-rainbow
 
 # install dependencies
 npm run install
@@ -42,6 +42,10 @@ Click here to deploy on Vercel:
 Click here to deploy on Netlify:
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2Fw4n9hu1%2Fastro-rainbow)
+
+## ✨ Contributing
+
+Feel free to open an issue if you find bugs or want to request new features.
 
 ## 📜 License
 
