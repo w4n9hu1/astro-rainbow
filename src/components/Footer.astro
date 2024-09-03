@@ -1,0 +1,24 @@
+---
+import config from "../config.json";
+
+const year = new Date().getFullYear();
+---
+
+<footer class="flex py-6">
+    <div class="space-y-2 text-center w-full text-rainbow font-mono">
+        <p>
+            &copy; {year}
+            <a class="underline" target="_blank" href={config.personal_website}>
+                {config.author}</a
+            >
+        </p>
+        <p>
+            Powered by <a
+                class="underline"
+                target="_blank"
+                href="https://github.com/w4n9hu1/astro-rainbow"
+                >Astro & Rainbow</a
+            >
+        </p>
+    </div>
+</footer>
