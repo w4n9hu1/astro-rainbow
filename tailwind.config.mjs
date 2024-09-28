@@ -12,7 +12,7 @@ export default {
 		plugin(function ({ addUtilities }) {
 			const newUtilities = {
 				'.text-rainbow': {
-					'@apply font-bold text-transparent bg-clip-text bg-gradient-to-r hover:bg-gradient-to-l from-pink-600 to-purple-600': {},
+					'@apply font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-purple-600': {},
 				},
 			};
 
